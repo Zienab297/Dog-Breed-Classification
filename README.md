@@ -1,5 +1,5 @@
 # AI Programming with Python first project
-
+run the command python ``` check_images.py --arch resnet ``` on ``` check_images.py ``` file <br />
 *** Results Summary for CNN Model Architecture RESNET *** <br />
 Number of correct Dogs Images:  40 <br />
 Number of correct Breed Images:  30 <br />
